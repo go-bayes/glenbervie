@@ -62,6 +62,41 @@ knitr::include_graphics(here::here("figs", "hilliard_gr_2.png"))
 
 
 
+
+
+```{r mantell1, fig.cap = "Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1950"}
+knitr::include_graphics(here::here("figs", "mantell.jpg"))
+#Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1950. 
+
+#SOURCE: 
+#Alexander Turnbull Library (ATL MS-Papers 0083-344 Reel 26 Folder 344.)
+
+#From
+#Dr. Peer Hodder
+#2 June 2021
+
+
+```
+
+
+
+
+```{r mantell2, fig.cap = "Note Pine Hill: Sketch of Waltner Mantell’s House in letter to Reginald Mantell. 9 Oct 1950"}
+knitr::include_graphics(here::here("figs", "mantell1.jpg"))
+#Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1950. 
+
+#SOURCE: 
+#Alexander Turnbull Library (ATL MS-Papers 0083-344 Reel 26 Folder 344.)
+
+#From
+#Dr. Peer Hodder
+#2 June 2021
+
+
+```
+
+
+
 ```{r heaphy1, fig.cap = "Charles Heaphy 1841: see home of Dr. Evans (44) and Col W. Wakefield (43) , 1841"}
 knitr::include_graphics(here::here("figs", "heaphy_1.png"))
 #Heaphy, Charles 1820-1881 :Part of Lambton Harbour, in Port Nicholson, New Zealand; comprehending about one third of the water frontage of the town of Wellington, April, 1841. Drawn ... by Chas Heaphy ... T. Allom lith. London, Published for the New Zealand Co[mpany] by Smith Elder & Co. printed by C. Hullmandel [1842. ca 1940?]
@@ -71,8 +106,5 @@ knitr::include_graphics(here::here("figs", "heaphy_1.png"))
 
 # https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE13986&dps_custom_att_1=emu
 ```
-
-
-
 
 
