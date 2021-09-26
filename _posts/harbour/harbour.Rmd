@@ -64,7 +64,7 @@ knitr::include_graphics(here::here("figs", "hilliard_gr_2.png"))
 
 
 
-```{r mantell1, fig.cap = "Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1950"}
+```{r mantell1, fig.cap = "Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1850"}
 knitr::include_graphics(here::here("figs", "mantell.jpg"))
 #Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1950. 
 
@@ -75,9 +75,22 @@ knitr::include_graphics(here::here("figs", "mantell.jpg"))
 #Dr. Peer Hodder
 #2 June 2021
 
-
 ```
 
+
+```{r lambton66, fig.cap="Panorama by William Henry Whitmore Davis, 1866/7"}
+#https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE1118775&dps_custom_att_1=emu
+knitr::include_graphics(here::here("figs", "lambton66.png"))
+# View taken from off-shore of buildings along Lambton Quay with Brandon's Corner on the far right. Houses on Wellington Terrace and beyond, and the Bolton Street Cemetery can be seen on the hill behind, with Tinakori Hill in the background. Identifiable premises on Lambton Quay are: T J Mountain; Edward Greaves Smith (Music Warehouse); Henry Owen; baker's shop; chemist & druggist; G Read; J Cook & Son. The Star Boating Club's shed can be seen on the waterfront. One of a panoramic sequence taken 1866 or 1867 by William Henry Whitmore Davis.
+```
+
+
+
+```{r lambton66_2, fig.cap="Panorama by William Henry Whitmore Davis: close up of ridgeline, 1866/7"}
+#https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE1118775&dps_custom_att_1=emu
+knitr::include_graphics(here::here("figs", "lambton66_2.png"))
+# View taken from off-shore of buildings along Lambton Quay with Brandon's Corner on the far right. Houses on Wellington Terrace and beyond, and the Bolton Street Cemetery can be seen on the hill behind, with Tinakori Hill in the background. Identifiable premises on Lambton Quay are: T J Mountain; Edward Greaves Smith (Music Warehouse); Henry Owen; baker's shop; chemist & druggist; G Read; J Cook & Son. The Star Boating Club's shed can be seen on the waterfront. One of a panoramic sequence taken 1866 or 1867 by William Henry Whitmore Davis.
+```
 
 
 
