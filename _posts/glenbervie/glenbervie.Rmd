@@ -1,5 +1,5 @@
 ---
-title: "Glenbervie"
+title: "An Impossible Road"
 description: ""
 author:
   - name: Joseph Bulbulia
@@ -54,48 +54,21 @@ knitr::include_graphics(here::here("figs", "smith_1m.png"))
 
 ## The Botanic Gardens 
 
-## Harbour
-
-
-```{r hilliard, fig.cap = "Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1841"}
-knitr::include_graphics(here::here("figs", "hilliard_gr.png"))
-# Detailed drawing showing position the northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie
-
-# Link https://tiaki.natlib.govt.nz/#details=ecatalogue.249196
-```
-
-
-
-
-
-```{r hilliard2, fig.cap = "Panorama of Port Nicholson 1841. Part 3, Lambton Quay to Bowen Street; and 4, northern Lambton Quay and The Terrace, 1841"}
-knitr::include_graphics(here::here("figs", "hilliard_gr_2.png"))
-#Hilliard, George Richard] b 1801 :[Panorama of Port Nicholson 1841. Part 3, Lambton Quay to Bowen Street; and 4, northern Lambton Quay and The Terrace]]
-# Link https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE128880&dps_custom_att_1=emu
-```
-
-
-
-
-
-```{r heaphy1, fig.cap = "Charles Heaphy 1841: see home of Dr. Evans (44) and Col W. Wakefield (43) , 1841"}
-knitr::include_graphics(here::here("figs", "heaphy_1.png"))
-#Heaphy, Charles 1820-1881 :Part of Lambton Harbour, in Port Nicholson, New Zealand; comprehending about one third of the water frontage of the town of Wellington, April, 1841. Drawn ... by Chas Heaphy ... T. Allom lith. London, Published for the New Zealand Co[mpany] by Smith Elder & Co. printed by C. Hullmandel [1842. ca 1940?]
-
-## Dr Evans 44
-## Col William Wakefield 
-
-# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE13986&dps_custom_att_1=emu
-```
-
-
 
 ## Maps 
+
+
+```{r feltonmap41, fig.cap="Plan of the City of Wellington Port Nicholson The First & Principal Settlement of the New Zealand Company by Felton Mathew Esqre. Survr. Genl. 1841."}
+# 
+knitr::include_graphics(here::here("figs", "feltonmap41m.png"))
+# https://www.raremaps.com/gallery/detail/59702/plan-of-the-city-of-wellington-port-nicholson-the-first-pr-mathew
+
+```
+
 
 ```{r darnoc, fig.cap="Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1877"}
 # Darnoc, N S, fl 1877 :New plan, proposed extension of the city of Wellington [ms map] By N....S Darnoc, practical architect, 1877.
 knitr::include_graphics(here::here("figs", "darnoc77.png"))
 # https://tiaki.natlib.govt.nz/#details=ecatalogue.260915
-
 
 ```

@@ -1,0 +1,104 @@
+---
+title: "Honeyman's Gully"
+description: ""
+author:
+  - name: Joseph Bulbulia
+    url: https://josephbulbulia.netlify.app
+    affiliation: Victoria University of Wellington
+    affiliation_url: https://www.wgtn.ac.nz
+    orcid_id: 0000-0002-5861-2056
+date: 2021-SEP-26
+output:
+  distill::distill_article:
+    self_contained: true
+    toc: true
+    code_folding: false
+bibliography: bib.bib
+editor_options: 
+  markdown: 
+    wrap: 60
+---
+
+```{r setup, include=FALSE}
+# setup
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  layout = "l-body-outset",
+  fig.width = 16,
+  fig.height = 9,
+  collapse = TRUE,
+  R.options = list(width = 60
+  )
+)
+
+library("here")
+
+```
+
+
+## Honeyman Gully
+
+
+```{r honeyman1, fig.cap = "Photograph of Honeyman's Gully by William Henry Whitmore (1812-1901) from 1885/1886"}
+knitr::include_graphics(here::here("figs", "honeyman1.png"))
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE625812&dps_custom_att_1=emu
+
+# Record Title:
+# Honeyman's Gully, Thorndon, Wellington
+# Tiaki IRN:
+# 521184
+# Tiaki Reference Number:
+# 1/2-230699-G
+# Collection:
+# PA-Group-00190: Davis, William Henry Whitmore, 1812-1901 :Photographs of Wellington and district
+# Coverage:
+# 1880
+# Description:
+# Looking north over Honeyman's Gully, Thorndon (later to become the site of Anderson Park and Lady Norwood Rose Garden). Through the gap in the distance can be seen the embankment of Glenverie Road and houses on the ridge south of Ascot Street. Photograph taken ca 1880s by William Henry Whitmore Davis
+```
+
+
+
+```{r honeyman2, fig.cap = "Focus on Pine Hill, photo by William Henry Whitmore (1812-1901) from 1885/1886"}
+knitr::include_graphics(here::here("figs", "honeyman2.png"))
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE625812&dps_custom_att_1=emu
+
+# Record Title:
+# Honeyman's Gully, Thorndon, Wellington
+# Tiaki IRN:
+# 521184
+# Tiaki Reference Number:
+# 1/2-230699-G
+# Collection:
+# PA-Group-00190: Davis, William Henry Whitmore, 1812-1901 :Photographs of Wellington and district
+# Coverage:
+# 1880
+# Description:
+# Looking north over Honeyman's Gully, Thorndon (later to become the site of Anderson Park and Lady Norwood Rose Garden). Through the gap in the distance can be seen the embankment of Glenverie Road and houses on the ridge south of Ascot Street. Photograph taken ca 1880s by William Henry Whitmore Davis
+```
+
+
+```{r honeyman3, fig.cap="Focus on land bridge, note shelter in upper left. photo by William Henry Whitmore (1812-1901) from 1885/1886"}
+# John Dutton house. lean to
+# p.45 TBG history,
+knitr::include_graphics(here::here("figs", "honeyman3.png"))
+
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE625812&dps_custom_att_1=emu
+# Record Title:
+# Honeyman's Gully, Thorndon, Wellington
+# Tiaki IRN:
+# 521184
+# Tiaki Reference Number:
+# 1/2-230699-G
+# Collection:
+# PA-Group-00190: Davis, William Henry Whitmore, 1812-1901 :Photographs of Wellington and district
+# Coverage:
+# 1880
+# Description:
+# Looking north over Honeyman's Gully, Thorndon (later to become the site of Anderson Park and Lady Norwood Rose Garden). Through the gap in the distance can be seen the embankment of Glenverie Road and houses on the ridge south of Ascot Street. Photograph taken ca 1880s by William Henry Whitmore Davis
+```
+
+
+

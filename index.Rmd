@@ -4,6 +4,9 @@ site: distill::distill_website
 listing: 
   posts:
     - glenbervie
+    - honeyman
+    - pinehill
+    - harbour
 
 ---
 
