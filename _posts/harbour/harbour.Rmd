@@ -61,6 +61,19 @@ knitr::include_graphics(here::here("figs", "hilliard_gr_2.png"))
 
 
 
+```{r natrass, fig.cap="Sketch by Luke Nattrass, Thorndon, 1841"}
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE15144630&dps_custom_att_1=emu
+knitr::include_graphics(here::here("figs", "natrass41m.png"))
+# Nattrass, Luke, 1803?-1875 :City of Wellington, New Zealand. 1841. [W. Richardson lithographer from a sketch by L. Nattrass. 2nd edition]. Wellington, McKee & Gamble [ca 1890]
+# Tiaki IRN:
+# 84402
+# Tiaki Reference Number:
+# C-029-004
+# Collection:
+# C-029-004: Nattrass, Luke, 1803?-1875 :City of Wellington, New Zealand. 1841. [W. Richardson lithographer from a sketch by L. Nattrass. 2nd edition]. Wellington, McKee & Gamble [ca 1890]
+```
+
+
 
 
 
