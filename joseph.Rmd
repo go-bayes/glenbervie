@@ -1,0 +1,30 @@
+---
+title: "Prof. Joseph Bulbulia"
+description: "Contact"
+image: "jb.jpg"
+links:
+  - label: CV
+    url: "https://josephbulbulia.netlify.app/files/bulbuliaCV.pdf"
+  - label: Personal webpage
+    url: "https://josephbulbulia.netlify.app/"
+  - label: Work webpage
+    url: "https://www.wgtn.ac.nz/psyc/about/staff/prof-joseph-bulbulia"
+  - label: Google scholar
+    url: "https://scholar.google.co.nz/citations?user=82b99k8AAAAJ&hl=en"
+  - label: Twitter
+    url: "https://twitter.com/go_bayes"
+  - label: GitHub
+    url: "https://twitter.com/go_bayes"
+  - label: ORCID ID
+    url: "https://orcid.org/0000-0002-5861-2056"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+ 
+
+I'm a professor of psychology in the Faculty of Science at Victoria University of Wellington. I work in the areas of cultural evolution, religion, longitudinal research, wellbeing, and the good life. 
+
+The views expressed here are my own. 
+
+My email contact is: joseph.bulbulia@vuw.ac.nz

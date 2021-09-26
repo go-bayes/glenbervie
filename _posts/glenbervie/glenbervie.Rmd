@@ -1,0 +1,101 @@
+---
+title: "Glenbervie"
+description: ""
+author:
+  - name: Joseph Bulbulia
+    url: https://josephbulbulia.netlify.app
+    affiliation: Victoria University of Wellington
+    affiliation_url: https://www.wgtn.ac.nz
+    orcid_id: 0000-0002-5861-2056
+date: 2021-JAN-10
+output:
+  distill::distill_article:
+    self_contained: true
+    toc: true
+    code_folding: false
+bibliography: bib.bib
+editor_options: 
+  markdown: 
+    wrap: 60
+---
+
+```{r setup, include=FALSE}
+# setup
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  layout = "l-body-outset",
+  fig.width = 16,
+  fig.height = 9,
+  collapse = TRUE,
+  R.options = list(width = 60
+  )
+)
+
+library("here")
+
+```
+
+## An Impossible Road
+
+```{r smith1, fig.cap="Plan of the town of Wellington, Port Nicholson : the first and principal settlement of the New Zealand Company / W.M. Smith, Surveyor-General, 1840"}
+#https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE272657
+
+knitr::include_graphics(here::here("figs", "smith_1m.png"))
+
+# also here : https://www.flickr.com/photos/archivesnz/15975386086/in/album-72157649292890288/
+
+```
+
+## Honeyman's Gully
+
+## Pine Hill 
+
+## The Botanic Gardens 
+
+## Harbour
+
+
+```{r hilliard, fig.cap = "Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1841"}
+knitr::include_graphics(here::here("figs", "hilliard_gr.png"))
+# Detailed drawing showing position the northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie
+
+# Link https://tiaki.natlib.govt.nz/#details=ecatalogue.249196
+```
+
+
+
+
+
+```{r hilliard2, fig.cap = "Panorama of Port Nicholson 1841. Part 3, Lambton Quay to Bowen Street; and 4, northern Lambton Quay and The Terrace, 1841"}
+knitr::include_graphics(here::here("figs", "hilliard_gr_2.png"))
+#Hilliard, George Richard] b 1801 :[Panorama of Port Nicholson 1841. Part 3, Lambton Quay to Bowen Street; and 4, northern Lambton Quay and The Terrace]]
+# Link https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE128880&dps_custom_att_1=emu
+```
+
+
+
+
+
+```{r heaphy1, fig.cap = "Charles Heaphy 1841: see home of Dr. Evans (44) and Col W. Wakefield (43) , 1841"}
+knitr::include_graphics(here::here("figs", "heaphy_1.png"))
+#Heaphy, Charles 1820-1881 :Part of Lambton Harbour, in Port Nicholson, New Zealand; comprehending about one third of the water frontage of the town of Wellington, April, 1841. Drawn ... by Chas Heaphy ... T. Allom lith. London, Published for the New Zealand Co[mpany] by Smith Elder & Co. printed by C. Hullmandel [1842. ca 1940?]
+
+## Dr Evans 44
+## Col William Wakefield 
+
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE13986&dps_custom_att_1=emu
+```
+
+
+
+## Maps 
+
+```{r darnoc, fig.cap="Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1877"}
+# Darnoc, N S, fl 1877 :New plan, proposed extension of the city of Wellington [ms map] By N....S Darnoc, practical architect, 1877.
+knitr::include_graphics(here::here("figs", "darnoc77.png"))
+# https://tiaki.natlib.govt.nz/#details=ecatalogue.260915
+
+
+```

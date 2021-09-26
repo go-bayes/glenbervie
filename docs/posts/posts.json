@@ -1,0 +1,21 @@
+[
+  {
+    "path": "posts/glenbervie/",
+    "title": "Glenbervie",
+    "description": "",
+    "author": [
+      {
+        "name": "Joseph Bulbulia",
+        "url": "https://josephbulbulia.netlify.app"
+      }
+    ],
+    "date": "2021-01-10",
+    "categories": [],
+    "contents": "\n\nContents\nAn Impossible Road\nHoneyman’s Gully\nPine Hill\nThe Botanic Gardens\nHarbour\nMaps\n\nAn Impossible Road\n\n\n\nFigure 1: Plan of the town of Wellington, Port Nicholson : the first and principal settlement of the New Zealand Company / W.M. Smith, Surveyor-General, 1840\n\n\n\nHoneyman’s Gully\nPine Hill\nThe Botanic Gardens\nHarbour\n\n\n\nFigure 2: Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1841\n\n\n\n\n\n\nFigure 3: Panorama of Port Nicholson 1841. Part 3, Lambton Quay to Bowen Street; and 4, northern Lambton Quay and The Terrace, 1841\n\n\n\n\n\n\nFigure 4: Charles Heaphy 1841: see home of Dr. Evans (44) and Col W. Wakefield (43) , 1841\n\n\n\nMaps\n\n\n\nFigure 5: Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1877\n\n\n\n\n\n\n",
+    "preview": "posts/glenbervie/distill-preview.png",
+    "last_modified": "2021-09-26T19:09:34+13:00",
+    "input_file": "glenbervie.knit.md",
+    "preview_width": 1966,
+    "preview_height": 1408
+  }
+]
