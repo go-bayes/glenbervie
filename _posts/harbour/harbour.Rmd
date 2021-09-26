@@ -75,6 +75,28 @@ knitr::include_graphics(here::here("figs", "natrass41m.png"))
 
 
 
+```{r dbrees1, fig.cap="Three panoramic views of Wellington, between 1842 and 1845. Panorama taken from the top of Mount Victoria, Port Nicholson."}
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE23580&dps_custom_att_1=emu
+knitr::include_graphics(here::here("figs", "debrees41.png"))
+
+# ecord Title:
+# [Brees, Samuel Charles] 1810-1865 :Panorama of Wellington, Port Nicholson, taken upon Thorndon Flat. Te Aro Flat, Wellington, from near Captain Sharpe's residence; Panorama taken from the top of Mount Victoria, Port Nicholson. Pictorial illustrations of New Zealand. [1847]. Drawn by S. C. Brees ... engraved by Henry Melville. Plate 22.
+# Tiaki IRN:
+# 131058
+# Tiaki Reference Number:
+# PUBL-0020-22
+# Collection:
+# PUBL-0020: Brees, Samuel Charles, 1810-1865 :Pictorial Illustrations of New Zealand. London, John Williams and Co., Library of Arts, 141, Strand, 1847.
+# Coverage:
+# 1842
+# Description:
+# Three panoramic views of Wellington, between 1842 and 1845. The top view stretches across Thorndon Flat with Dr Evans' house on the left, a range of early houses and businesses along the waterfront and on the right, Colonel William Wakefield's house with flagpole. The centre view looks down over Te Aro Flat towards Mt Victoria. The lowest view is a completely circular one looking down onto Wellington Harbour and Evans Bay from the top of Mount Victoria.
+
+```
+
+
+
+
 
 
 ```{r mantell1, fig.cap = "Sketch of Waltner Mantell’s House in letter to Reginald Mantell 9 Oct 1850"}
