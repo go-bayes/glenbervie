@@ -75,7 +75,7 @@ knitr::include_graphics(here::here("figs", "natrass41m.png"))
 
 
 
-```{r dbrees1, fig.cap="Three panoramic views of Wellington, between 1842 and 1845. Panorama taken from the top of Mount Victoria, Port Nicholson."}
+```{r dbrees1, fig.cap="Three panoramic views of Wellington, between 1842 and 1845. Panorama taken from the top of Mount Victoria, Port Nicholson.", include=FALSE, eval=FALSE}
 # https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE23580&dps_custom_att_1=emu
 knitr::include_graphics(here::here("figs", "debrees41.png"))
 

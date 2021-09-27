@@ -86,3 +86,10 @@ knitr::include_graphics(here::here("figs", "ph2.png"))
 
 
 
+
+
+```{r honeyman_close, fig.cap="Photo by William Henry Whitmore (1812-1901) from 1885/1886"}
+# John Dutton house. lean to
+# p.45 TBG history,
+knitr::include_graphics(here::here("figs", "hm_close.png"))
+

@@ -48,14 +48,7 @@ knitr::include_graphics(here::here("figs", "smith_1m.png"))
 
 ```
 
-## Honeyman's Gully
 
-## Pine Hill 
-
-## The Botanic Gardens 
-
-
-## Maps 
 
 
 ```{r feltonmap41, fig.cap="Plan of the City of Wellington Port Nicholson The First & Principal Settlement of the New Zealand Company by Felton Mathew Esqre. Survr. Genl. 1841."}
@@ -66,9 +59,8 @@ knitr::include_graphics(here::here("figs", "feltonmap41m.png"))
 ```
 
 
-```{r darnoc, fig.cap="Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1877"}
-# Darnoc, N S, fl 1877 :New plan, proposed extension of the city of Wellington [ms map] By N....S Darnoc, practical architect, 1877.
-knitr::include_graphics(here::here("figs", "darnoc77.png"))
-# https://tiaki.natlib.govt.nz/#details=ecatalogue.260915
-
-```
+<!-- ```{r darnoc, fig.cap="Northern section of Lambton Quay with bush-clad hills above The Terrace and the position of houses along the waterfront and inscribed Major Durie. 1877"} -->
+<!-- # Darnoc, N S, fl 1877 :New plan, proposed extension of the city of Wellington [ms map] By N....S Darnoc, practical architect, 1877. -->
+<!-- knitr::include_graphics(here::here("figs", "darnoc77.png")) -->
+<!-- # https://tiaki.natlib.govt.nz/#details=ecatalogue.260915 -->
+<!-- ``` -->
