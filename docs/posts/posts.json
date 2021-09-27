@@ -68,11 +68,30 @@
     ],
     "date": "2021-09-26",
     "categories": [],
-    "contents": "\n\nContents\nPine Hill\n\nPine Hill\n\n\n\nFigure 1: Pine Hill cira 1880s, source Shephard and Cook, 1984, p.134\n\n\n\n\n\n\n",
+    "contents": "\n\nContents\nPine Hill\n\nPine Hill\n\n\n\nFigure 1: Pine Hill cira 1880s, source Shephard and Cook, 1984, p.134\n\n\n\n\n\n\nFigure 2: quoted: View looking southwest across Thorndon, toward Wellington City and Harbour. In the centre is the northern part of the Botanic Gardens which was later to become Anderson Park: the road that runs to the left of this (in the vicinity of what was later Bowen Street) is Glenbervie Road. Taken by an unidentified photographer, circa 1905.\n\n\n\n\n\n\n",
     "preview": "posts/pinehill/distill-preview.png",
-    "last_modified": "2021-09-26T20:28:23+13:00",
-    "input_file": {},
+    "last_modified": "2021-09-27T21:42:47+13:00",
+    "input_file": "pinehill.knit.md",
     "preview_width": 4032,
     "preview_height": 3024
+  },
+  {
+    "path": "posts/foursisters/",
+    "title": "Four Sisters",
+    "description": "",
+    "author": [
+      {
+        "name": "Joseph Bulbulia",
+        "url": "https://josephbulbulia.netlify.app"
+      }
+    ],
+    "date": "2021-09-26",
+    "categories": [],
+    "contents": "\n\nContents\nFour Sisters\n\nFour Sisters\n\n\n\nFigure 1: View over Thorndon from the Bolton Street Cemetery looking towards the Tinakori Hill, 1894\n\n\n\n\n\n\n",
+    "preview": "posts/foursisters/distill-preview.png",
+    "last_modified": "2021-09-27T21:30:47+13:00",
+    "input_file": "foursisters.knit.md",
+    "preview_width": 2798,
+    "preview_height": 1356
   }
 ]

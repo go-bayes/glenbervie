@@ -1,0 +1,62 @@
+---
+title: "Four Sisters"
+description: ""
+author:
+  - name: Joseph Bulbulia
+    url: https://josephbulbulia.netlify.app
+    affiliation: Victoria University of Wellington
+    affiliation_url: https://www.wgtn.ac.nz
+    orcid_id: 0000-0002-5861-2056
+date: 2021-SEP-26
+output:
+  distill::distill_article:
+    self_contained: true
+    toc: true
+    code_folding: false
+bibliography: bib.bib
+editor_options: 
+  markdown: 
+    wrap: 60
+---
+
+```{r setup, include=FALSE}
+# setup
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  layout = "l-body-outset",
+  fig.width = 16,
+  fig.height = 9,
+  collapse = TRUE,
+  R.options = list(width = 60
+  )
+)
+
+library("here")
+
+```
+
+
+## Four Sisters
+
+
+```{r fours1, fig.cap = "View over Thorndon from the Bolton Street Cemetery looking towards the Tinakori Hill, 1894"}
+knitr::include_graphics(here::here("figs", "fours1.png"))
+# https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE187147&dps_custom_att_1=emu
+
+
+# View over Thorndon from the Bolton Street Cemetery looking towards the Tinakori Hill
+# Tiaki IRN:
+# 235438
+# Tiaki Reference Number:
+# 1/2-021206-F
+# Collection:
+# 1/2-021206-F: View over Thorndon from the Bolton Street Cemetery looking towards the Tinakori Hill
+# Coverage:
+# 1894
+# Description:
+# View over Thorndon from the Bolton Street Cemetery looking towards the Tinakori Hill. 
+```
+
+

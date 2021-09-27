@@ -46,3 +46,22 @@ knitr::include_graphics(here::here("figs", "pinehill.png"))
 ```
 
 
+
+```{r pinhill1, fig.cap = "quoted: View looking southwest across Thorndon, toward Wellington City and Harbour. In the centre is the northern part of the Botanic Gardens which was later to become Anderson Park: the road that runs to the left of this (in the vicinity of what was later Bowen Street) is Glenbervie Road. Taken by an unidentified photographer, circa 1905."}
+knitr::include_graphics(here::here("figs", "ph1.png"))
+
+# View of Thorndon, Wellington
+# Tiaki IRN:
+# 232460
+# Tiaki Reference Number:
+# 1/2-052464-F
+# Collection:
+# 1/2-052464-F: View of Thorndon, Wellington
+# Coverage:
+# 1905
+# Description:
+# View looking southwest across Thorndon, toward Wellington City and Harbour. In the centre is the northern part of the Botanic Gardens which was later to become Anderson Park: the road that runs to the left of this (in the vicinity of what was later Bowen Street) is Glenbervie Road. Taken by an unidentified photographer, circa 1905.
+```
+
+
+
